@@ -144,13 +144,7 @@ Telemetry üzerinde;
 ![alt text](https://i.hizliresim.com/p0z1blq.png)
 
 
-- **https://t.me/testnetrun**
+- **https://nodesrun.com/**
 
-- **https://link3.to/testnetrun**
 
-- **https://www.youtube.com/@TestNetRun**
-
-- **https://testnet.run/**
-
-- **https://stake.testnet.run/**
 
