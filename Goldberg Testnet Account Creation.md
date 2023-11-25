@@ -6,6 +6,7 @@ Avail info@availproject.org
 ```
 This e-mail should come from your address.
 **E-Mail:** 
+
 ![alt text](https://i.ibb.co/9v5wVMQ/image.png)
 
 **Avail Goldberg Testnet Account Creation:** 
