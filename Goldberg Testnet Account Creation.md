@@ -19,15 +19,15 @@ https://goldberg.avail.tools/#/accounts
 ```
 1- Go to Goldberg Avail Tools site from Explorer:
 
-![alt text](https://i.ibb.co/zmbM3Xb/2.png[/img)
+![alt text](https://i.ibb.co/zmbM3Xb/1.png[/img)
 
 2- Name: STASH ACCONT   Pass:xxxxx
 
-![alt text](https://i.ibb.co/tKrr9Lq/3.png[/img)
+![alt text](https://i.ibb.co/tKrr9Lq/2.png[/img)
 
 3- We copy and save.
 
-![alt text](https://i.ibb.co/42KJjr4/4.png[/img)
+![alt text](https://i.ibb.co/42KJjr4/3.png[/img)
 
 
 
