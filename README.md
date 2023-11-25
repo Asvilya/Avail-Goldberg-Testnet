@@ -66,7 +66,7 @@ git checkout v1.8.0.2
 
 ```python
 cargo run --locked --release -- --chain goldberg -d ./output
-
+```
 CTRL-C
 
 ```python
