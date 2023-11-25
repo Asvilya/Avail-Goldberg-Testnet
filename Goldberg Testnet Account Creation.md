@@ -5,18 +5,27 @@ Check the Email Address.
 Avail info@availproject.org
 ```
 This e-mail should come from your address.
-**E-Mail:** 
+
+E-Mail:
 
 ![alt text](https://i.ibb.co/9v5wVMQ/image.png)
 
 **Avail Goldberg Testnet Account Creation:** 
+
 1- Go to Goldberg Avail Tools site from Explorer:
+
 ```python
 https://goldberg.avail.tools/#/accounts
 ```
+1- Go to Goldberg Avail Tools site from Explorer:
+
 ![alt text](https://i.ibb.co/zmbM3Xb/2.png[/img)
 
+2- Name: STASH ACCONT   Pass:xxxxx
+
 ![alt text](https://i.ibb.co/tKrr9Lq/3.png[/img)
+
+3- We copy and save.
 
 ![alt text](https://i.ibb.co/42KJjr4/4.png[/img)
 
