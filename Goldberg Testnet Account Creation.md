@@ -5,7 +5,7 @@ Check the Email Address.
 Avail info@availproject.org
 ```
 This e-mail should come from your address.
-
+![alt text](https://i.ibb.co/9v5wVMQ/image.png)
 **E-Mail:** **(https://i.ibb.co/9v5wVMQ/image.png)**
 
 # Minimum Sistem Gereksinimleri
