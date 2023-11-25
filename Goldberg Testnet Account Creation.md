@@ -6,7 +6,7 @@ Avail info@availproject.org
 ```
 This e-mail should come from your address.
 
-**E-Mail:** **[https://imgyukle.com/i/y5QCeR.png](https://i.ibb.co/9v5wVMQ/image.png)**
+**E-Mail:** **(https://i.ibb.co/9v5wVMQ/image.png)**
 
 # Minimum Sistem Gereksinimleri
 
