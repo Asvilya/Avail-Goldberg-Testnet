@@ -1,4 +1,4 @@
-# Avail-Goldberg-Testnet
+# Avail-Goldberg Testnet v1.8.0.2
 
 ![alt text](https://i.hizliresim.com/785b3ek.png)
 
