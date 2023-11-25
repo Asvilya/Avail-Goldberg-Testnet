@@ -18,6 +18,7 @@ E-Mail:
 https://goldberg.avail.tools/#/accounts
 ```
 1- Go to Goldberg Avail Tools site from Explorer:
+We copy and save.
 
 ![alt text](https://i.ibb.co/zmbM3Xb/1.png[/img)
 
@@ -25,7 +26,9 @@ https://goldberg.avail.tools/#/accounts
 
 ![alt text](https://i.ibb.co/tKrr9Lq/2.png[/img)
 
-3- We copy and save.
+3- STASH ACCONT oluşturduk. 
+Aynı Şekilde CONTROLLER ACCOUNT OLUŞTURACAĞIZ.
+Resimde gördüğün gibi 2 hesabımız olacak.
 
 ![alt text](https://i.ibb.co/42KJjr4/3.png[/img)
 
