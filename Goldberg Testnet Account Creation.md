@@ -33,9 +33,9 @@ We copy and save.
 
 ![alt text](https://i.ibb.co/42KJjr4/3.png[/img)
 
-STASH ACCONT: Account where we will request 1000 Avail from Discord admin (“@Grraarrgghh” & @Delroy).
+*STASH ACCONT:* Account where we will request 1000 Avail from Discord admin (“@Grraarrgghh” & @Delroy).
 
-CONTROLLER ACCOUNT: Your Controller account that requires 1000 Avail to start and stop verification
+*CONTROLLER ACCOUNT:* Your Controller account that requires 1000 Avail to start and stop verification
 
 
 - **https://nodesrun.com/**
