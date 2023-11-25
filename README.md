@@ -4,7 +4,7 @@
 
 # Minimum Sistem Gereksinimleri
 
-- **2 CPU**
+- **2 CPU*
 - **4GB RAM**
 - **20-40GB DISK**
 - **Ubuntu 20.04++**
@@ -61,7 +61,7 @@ mkdir -p output
 ```
 
 ```python
-git checkout v1.7.2
+git checkout v1.8.0.2
 ```
 
 ```python
@@ -81,16 +81,16 @@ sudo nano /etc/systemd/system/availd.service
 Aşağıdaki kodda `"monikeradiniz"` olan yere validatör adınızı girin. Kodu yapıştırdıktan sonra `CTRL X-Y Enter` ile çıkın.
 
 ```python
-[Unit]
+[Unit] 
 Description=Avail Validator
 After=network.target
 StartLimitIntervalSec=0
-[Service]
-User=root
-ExecStart= /root/avail/target/release/data-avail --base-path `pwd`/data --chain kate --name "monikeradiniz"
-Restart=always
+[Service] 
+User=root 
+ExecStart= /root/avail/target/release/data-avail -d ./output --chain goldberg --validator --name "monikeradiniz"
+Restart=always 
 RestartSec=120
-[Install]
+[Install] 
 WantedBy=multi-user.target
 ```
 
@@ -122,6 +122,16 @@ System Durdurma
 
 ```python
 sudo systemctl stop availd.service
+```
+Node Info
+
+```python
+curl 127.0.0.1:9615/metrics 2>&1 | grep ^substrate_build_info
+```
+block Height
+
+```python
+curl 127.0.0.1:9615/metrics 2>&1 | grep substrate_block_height
 ```
 
 Senkronizasyon Durumunda Log Çıktısı
