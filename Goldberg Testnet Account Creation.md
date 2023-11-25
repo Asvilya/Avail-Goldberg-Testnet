@@ -4,7 +4,7 @@ Check the Email Address.
 ```python
 Avail info@availproject.org
 ```
-This e-mail should come from your address.
+This email should come from the address above.
 
 E-Mail:
 
